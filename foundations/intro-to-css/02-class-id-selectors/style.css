@@ -1,0 +1,22 @@
+.odd {
+    color:rgb(0, 0, 0);
+    background-color: rgb(255, 127, 127);
+    font-family: verdana,helvetica, sans-serif;
+}
+
+.adjust-font-size  {
+    font-size: 24px;
+}
+
+#number2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#number4 {
+    color: 000000;
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+
+}
